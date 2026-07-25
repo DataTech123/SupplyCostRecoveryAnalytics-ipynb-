@@ -1,6 +1,9 @@
-Supply Cost Recovery & PPV Analytics Platform 
+Thank you for listening the presentation link below:
+https://drive.google.com/file/d/1GkQ0T-c6xkII4SuJGYYAvf8ZZe5xyY-d/view?usp=sharing 
 
-A data analytics application built with Python and Excel to simulate an SAP ERP environment. This project evaluates procurement data, calculates the purchase price variance (PPV), identifies cost discrepancies, and automates supplier cost recovery claims.
+Supply Cost Recovery Analytics 
+
+A data analytics application built with Python and Excel to the simulated an SAP ERP environment. This project evaluates procurement data, calculates the purchase price variance (PPV), identifies cost discrepancies, and automates supplier cost recovery claims.
 
 Objective:
 The primary objective of this project is to mimic procurement and finance workflows within a simulated SAP ERP system:
